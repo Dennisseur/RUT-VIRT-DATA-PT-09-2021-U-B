@@ -8,10 +8,10 @@ In today's class, after ensuring that Anaconda is installed correctly, students 
 
 ## Learning Objectives
 
-By the end of class, students will be able to:
+By the end of class, you will be able to:
  
-* Verify that they have installed Anaconda.
-* Verify that they have created a working PythonData conda environment.
+* Verify that you have installed Anaconda.
+* Verify that you have created a working PythonData conda environment.
 * Import and read a CSV into a DataFrame using Pandas
 * Use a variety of Pandas methods and functions on a DataFrame
 * Merge two DataFrames
