@@ -1,4 +1,4 @@
-# Module 9 - SQL
+# Module 7 - SQL
 
 ## Objectives
 
