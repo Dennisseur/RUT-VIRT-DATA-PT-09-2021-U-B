@@ -1,12 +1,13 @@
 import os
 import csv
+import pandas as pd
 
 # Path to collect data from the Resources folder
-
+wrestle_df = pd.read_csv("Resources/WWE-Data-2016.csv")
 # Define the function and have it accept the 'wrestlerData' as its sole parameter
-
+wrestle_df.dtypes
 # Find the total number of matches wrestled
-
+wins.sum()
 # Find the percentage of matches won
 
 # Find the percentage of matches lost
